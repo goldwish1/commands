@@ -1,3 +1,4 @@
+<!-- 中文介绍：移除AI生成的冗余代码和注释 -->
 # Remove AI code slop
 
 Check the diff against main, and remove all AI generated slop introduced in this branch.

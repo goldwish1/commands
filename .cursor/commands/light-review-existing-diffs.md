@@ -1,3 +1,4 @@
+<!-- 中文介绍：快速审查当前的代码差异 -->
 # Light Review Existing Diffs
 
 ## Overview

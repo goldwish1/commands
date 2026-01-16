@@ -1,3 +1,4 @@
+<!-- 中文介绍：生成Mermaid图表来可视化代码或架构 -->
 # Generate Mermaid Diagram
 
 ## Overview

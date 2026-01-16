@@ -1,3 +1,4 @@
+<!-- 中文介绍：为新开发者提供完整的入职流程 -->
 # Onboard New Developer
 
 ## Overview

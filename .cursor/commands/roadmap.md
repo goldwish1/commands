@@ -1,3 +1,4 @@
+<!-- 中文介绍：分析代码库并生成功能改进路线图 -->
 # Roadmap: Feature & Improvement Suggestions
 
 Analyze the codebase and generate a visual roadmap of potential features and improvements. Track progress with todos.

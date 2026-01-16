@@ -1,3 +1,4 @@
+<!-- 中文介绍：生成产品架构概览图（用户旅程和架构流程图） -->
 # Overview: Visual Architecture Diagram
 
 Generate two Mermaid diagrams to overview the product. Track progress with todos.

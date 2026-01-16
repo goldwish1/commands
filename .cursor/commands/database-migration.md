@@ -1,3 +1,4 @@
+<!-- 中文介绍：创建和管理数据库迁移脚本 -->
 # Database Migration
 
 ## Overview

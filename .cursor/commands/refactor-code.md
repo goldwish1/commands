@@ -1,3 +1,4 @@
+<!-- 中文介绍：重构代码以提高质量，保持功能不变 -->
 # Refactor Code
 
 ## Overview
