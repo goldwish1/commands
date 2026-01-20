@@ -248,4 +248,4 @@ touch .cursor/commands/my-custom-command.md
 
 ## 许可证
 
-此项目是开源的，可在 [MIT 许可证](LICENSE) 下使用。
+此项目是开源的，可在 [MIT 许可证](LICENSE) 下使用
