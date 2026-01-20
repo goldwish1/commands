@@ -60,3 +60,8 @@ temp/
 # Cache directories
 .cache/
 .parcel-cache/
+
+# else
+.gitignore
+.cursorindexingignore
+License.txt
